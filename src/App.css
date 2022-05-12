@@ -1,0 +1,52 @@
+.App {
+  height: 100%;
+  background: url(/assets/bg.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.video-container {
+  padding: 7rem 0 0 14rem;
+}
+
+.search-controls {
+  display: flex;
+  width: 44rem;
+  border-radius: 0.5rem 0.5rem 0 0;
+}
+
+.youtube-icon {
+  height: 4rem;
+  width: 4rem;
+  background: url(/assets/YouTube.png) no-repeat center center;
+  background-color: #232323;
+  border-radius: 0.5rem;
+}
+
+.input-search {
+  width: 35rem;
+  background-color: #4a4a4a;
+  border-radius: 0.5rem;
+  color: white;
+  padding: 0 1rem;
+  border: none;
+  outline: none;
+}
+
+.search-icon {
+  height: 4rem;
+  width: 3rem;
+  background: url(/assets/Group.png) no-repeat center center;
+  background-color: #4a4a4a;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.youtube-frame {
+  width: 40rem;
+  padding: 1rem 2rem;
+  background-color: #4a4a4a;
+  border-radius: 0 0 0.5rem 0.5rem;
+}
