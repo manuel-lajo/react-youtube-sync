@@ -1,8 +1,3 @@
-## Submission Instructions
-
-Once you're finished with the take home assignment, please zip up your code and send it to us via email. Please include any relevant instructions in this README for how to start up the frontend and backend of the app you created.
-
-
 ## 💻 Backend
 
 Backend is implemented using Firestore, so it is ready and running :)
